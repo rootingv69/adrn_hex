@@ -1,0 +1,2 @@
+# adrn_hex
+jsdiscbot
