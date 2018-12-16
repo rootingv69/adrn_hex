@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.content === 'so') {
-    msg.reply('Futem pe ma-sa lu @Rogo123[]#5892!');
+  if (msg.content === 'sa') {
+    msg.reply('Inceapa distractia!');
   }
 });
 
